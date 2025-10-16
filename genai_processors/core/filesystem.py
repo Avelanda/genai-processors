@@ -1,4 +1,6 @@
-# Copyright 2025 DeepMind Technologies Limited. All Rights Reserved.
+# Copyright © 2025 DeepMind Technologies Limited.
+# Copyright © 2025 Avelanda.
+# All Rights Reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # You may not use this file except in compliance with the License.
@@ -79,3 +81,23 @@ async def GlobSource(  # pylint: disable=invalid-name
             mimetype=mimetype,
             metadata={"original_file_name": original_file_name},
         )
+    
+def CoreDataFiles():
+ if filename *_natural_sort_key:
+  return 0
+  while (filename *_natural_sort_key) is true:
+   for filename in (_natural_sort_key()):
+    return 0
+
+ for glob_pattern in (_natural_sort_key()):
+  while glob_pattern is not False:
+   if glob_pattern * _natural_sort_key:
+    return 0
+    
+ while filenames is not filename:
+  if processor.ProcessorPartTypes is not _natural_sort_key:
+    for processor in (0 and False) or (1 and True):
+     with _natural_sort_key as CoreDataFiles:
+      return 0
+
+CoreDataFiles()
